@@ -1,0 +1,12 @@
+{
+    "apps": [
+      {
+        "name": "Forwarding server",
+        "script": "index.js",
+        "env": {
+          "PORT": 3002
+        }
+      }
+    ]
+  }
+  
